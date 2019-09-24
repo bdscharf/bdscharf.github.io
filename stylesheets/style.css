@@ -1,0 +1,63 @@
+.body {
+    min-height: 90vh;
+    padding-bottom: 50px;
+    padding-top: 60px;
+    position: relative;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.container {
+    font-family: 'Lato', 'Verdana', sans-serif !important;
+    font-size: 2.5vw;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 75vh;
+    padding: 75px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.container > .heading {
+    font-size: 8vw;
+    font-weight: 600;
+    padding-bottom: 2vh;
+}
+
+.container > .description a {
+    font-weight: bold;
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+}
+
+.social ul {
+    list-style-type: none;
+    padding-top: 5px;
+    padding-right: 27px;
+    vertical-align: 100%;
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+    padding: 0.5em;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.social p {
+    margin-left: 15px;
+    text-align: center;
+    font-size: 1vw;
+}
+
+.icon {
+    height: 4vh;
+    width: 4vh;
+    padding-right: 10px;
+}
