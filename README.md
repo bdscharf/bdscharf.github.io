@@ -1,4 +1,4 @@
-# bdscharf
-Personal site.
+# bdscharf.github.io
+### personal website
 
-Built with [feather icons](https://github.com/feathericons/feather) and [particles.js](https://github.com/marcbruederlin/particles.js).
+built with [gatsbyjs](https://www.gatsbyjs.org/) and [react](https://reactjs.org/)
