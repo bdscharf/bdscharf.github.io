@@ -15,17 +15,17 @@ const IndexPage = () => (
     <h2>Media</h2>
     <ul>
       <li>
-        <a href="https://github.com/bdscharf">github</a>
+        <a href="https://github.com/bdscharf">GitHub</a>
       </li>
       <li>
-        <a href="https://www.linkedin.com/in/benjamin-scharf/">linkedin</a>
+        <a href="https://www.linkedin.com/in/benjamin-scharf/">LinkedIn</a>
       </li>
       <li>
-        <a href="https://www.last.fm/user/scharfb">lastfm:</a>
+        <a href="https://www.last.fm/user/scharfb">Last.fm:</a>
         &nbsp;(some of) the music that I listen to on my computer
       </li>
       <li>
-        <a href="https://bandcamp.com/bscharf">bandcamp:</a>
+        <a href="https://bandcamp.com/bscharf">Bandcamp:</a>
         &nbsp;(some of) the music that I've purchased
       </li>
     </ul>
@@ -33,12 +33,12 @@ const IndexPage = () => (
     <h2>Projects</h2>
     <ul>
       <li>
-        <a href="https://bdscharf.github.io/tablatar/">tablatar:</a>
+        <a href="https://bdscharf.github.io/tablatar/">Tablatar:</a>
         &nbsp;monophonic guitar transcription for beginners
       </li>
       <li>
-        <a href="https://bdscharf.github.io/goat-vs-car/">goat vs. car:</a>
-        &nbsp;an explorable explanation of the monty hall problem
+        <a href="https://bdscharf.github.io/goat-vs-car/">Goat vs. Car:</a>
+        &nbsp;an explorable explanation of the Monty Hall problem
       </li>
     </ul>
   </Layout>
