@@ -22,7 +22,7 @@ const IndexPage = () => (
       </li>
       <li>
         <a href="https://www.last.fm/user/scharfb">Last.fm:</a>
-        &nbsp;(some of) the music that I listen to on my computer
+        &nbsp;(some of) the music that I listen to
       </li>
       <li>
         <a href="https://bandcamp.com/bscharf">Bandcamp:</a>
