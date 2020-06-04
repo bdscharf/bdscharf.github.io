@@ -8,8 +8,7 @@ const IndexPage = () => (
   <Layout>
     <p>
       My name is Ben Scharf, and I graduated from Northwestern University in
-      2019 with a degree in Computer Science. I'm passionate about music,
-      technology, and social equity.
+      2019 with a degree in Computer Science. I'm passionate about music and love learning new technologies. I'm currently a backend engineer working with Flask.
     </p>
 
     <h2>Media</h2>
