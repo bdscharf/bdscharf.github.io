@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <p>
       My name is Ben Scharf, and I graduated from Northwestern University in
-      2019 with a degree in Computer Science. I'm passionate about music and love learning new technologies. I'm currently a backend engineer working with Flask.
+      2019 with a degree in Computer Science. I'm passionate about music and love learning new technologies. I currently work as a backend engineer, primarily in Python.
     </p>
 
     <h2>Media</h2>
@@ -28,8 +28,7 @@ const IndexPage = () => (
         &nbsp;(some of) the music that I've purchased
       </li>
     </ul>
-
-    <h2>Projects</h2>
+		<h2>(Some) Projects</h2>
     <ul>
       <li>
         <a href="https://bdscharf.github.io/tablatar/">Tablatar:</a>
